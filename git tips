@@ -1,0 +1,14 @@
+Create new github repo
+Create first push
+- git init
+- git add .
+- git commit -m "first commit"
+- git remote add origin git@github.com:username/repo-name.git
+- git push -u origin master
+
+Create a branch
+- git checkout -b branchname
+
+Merge a master
+- git checkout master
+- git merge branchname
