@@ -2,6 +2,10 @@ they will blast you in the dinosaur ass
 
 lets get huge bro!
 
+<<<<<<< HEAD
 nothing sexual bro
 
 qianbossaru
+=======
+this is a change in my branch. For Snellius!
+>>>>>>> Ryan
