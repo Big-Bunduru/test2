@@ -8,6 +8,7 @@ Create first push
 
 Create a branch
 - git checkout -b branchname
+- git push --set-upstream origin adarsh
 
 Merge a master
 - git checkout master
